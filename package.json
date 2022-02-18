@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/updater.js",
   "typings": "dist/updater.d.ts",
@@ -10,6 +10,17 @@
   "engines": {
     "node": ">=10"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userdansilva/react-list-update.git"
+  },
+  "keywords": [
+    "react",
+    "axios",
+    "fetch",
+    "update",
+    "crud"
+  ],
   "scripts": {
     "start": "tsdx watch",
     "build": "tsdx build",
